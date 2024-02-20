@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">🔬 I'm all about diving into the fascinating world of data science, using Python, SQL, and Tableau to uncover hidden insights and create captivating visualizations.
 </h3>
 
-<h3 align="center">🌟 Let's geek out over data together, collaborate on cool projects, and swap kitchen recipes along the way! 🌟
+<h3 align="center">🌟 Let's geek out over data together, collaborate on cool projects, and swap kitchen recipes along the way!
 </h3>
 
 <h3 align="center">📫 You can reach me on <a href="https://www.linkedin.com/in/zengotita/">Linkedin</a></h3>
