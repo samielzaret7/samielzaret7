@@ -15,6 +15,7 @@ When I'm not coding, I'm in the kitchen or out checking another spot off my list
 - 📬 **[Free-Code-Camp-Email-Parser](https://github.com/samielzaret7/Free-Code-Camp-Email-Parser)**: turns a pile of course emails into a list I can pick from
 
 **What I use**
+
 Python · SQL · Selenium · Playwright · Streamlit · Supabase · REST APIs · Gmail & Notion APIs · Git
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/zengotita/)
