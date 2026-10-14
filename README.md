@@ -1,22 +1,20 @@
+<h2 align="center">Hi, I'm Samiel 👋</h2>
 
+Most of what I build starts with a question I want answered: what's on the housing market right now, where to eat next, which course to tackle. Python is usually how I answer it.
 
-
-<!---
-samielzaret7/samielzaret7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h2 align="center">👋 Hey there! I'm Samiel, a data wizard by day and a kitchen enthusiast by night! When I'm not deep in code, you'll find me whipping up tasty treats or experimenting with tofu.</h2>
+When I'm not coding, I'm in the kitchen or out checking another spot off my list. Always up for talking code, trading project ideas, or swapping recipes.
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFjNHo4dGF1OXRtcWVpdGhwZTFyYnlsN2hzem9rOXd2cmFzY2k3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J5YPhyza681bNMgb9Q/giphy.gif" alt="Protein Powered!">
 </p>
 
+**Things I've built for myself**
+- 🏠 **[PropertyScout](https://github.com/samielzaret7/PropertyScout)**: a live Streamlit app for exploring the Puerto Rico real estate market, fed by my own [Clasificados Online scraper](https://github.com/samielzaret7/Clasificados-Online-Real-Estate-Scraper)
+- 🗺️ **[PlacesToGoDashboard](https://github.com/samielzaret7/PlacesToGoDashboard)**: every restaurant, bar, and café I want to try (or already have), pulled from Notion
+- ⛽ **[gasoline-Receipts](https://github.com/samielzaret7/gasoline-Receipts)**: grabs my gas receipts from Gmail and files them as monthly PDFs, built on my [gmail-utils](https://github.com/samielzaret7/gmail-utils) library
+- 📬 **[Free-Code-Camp-Email-Parser](https://github.com/samielzaret7/Free-Code-Camp-Email-Parser)**: turns a pile of course emails into a list I can pick from
 
-<h3 align="center">🔬 I'm all about diving into the fascinating world of data science, using Python, SQL, and Tableau to uncover hidden insights and create captivating visualizations.
-</h3>
+**What I use**
+Python · SQL · Selenium · Playwright · Streamlit · Supabase · REST APIs · Gmail & Notion APIs · Git
 
-<h3 align="center">🌟 Let's geek out over data together, collaborate on cool projects, and swap kitchen recipes along the way!
-</h3>
-
-<h3 align="center">📫 You can reach me on <a href="https://www.linkedin.com/in/zengotita/">Linkedin</a></h3>
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/zengotita/)
